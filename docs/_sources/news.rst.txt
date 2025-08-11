@@ -17,6 +17,8 @@ Time: 10:30 AM
 
 Given the early morning testing time I will be driving down on the evening of August 22nd. See :ref:`contact` to get in touch with me directly if anyone wants to carpool. I have room for an additional 3 people.
 
+.. note:: For anyone unable to travel to attend in-person we will do a make-up session with either Master Gavilan or Master Vialba.
+
 A Website (Finally)
 -------------------
 

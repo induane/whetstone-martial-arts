@@ -11,9 +11,6 @@ It focuses on training traditional `Taekwondo <https://www.olympics.com/en/sport
 
 
 
-
-
-
 .. toctree::
    :maxdepth: 1
    :caption: Info:
