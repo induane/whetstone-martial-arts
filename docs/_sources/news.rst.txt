@@ -15,7 +15,7 @@ Date: August 23rd, 2025
 Location: `Dynamic Leaders Martial Arts <https://www.google.com/maps/place/1709+S+Morgan+Rd,+Yukon,+OK+73099/@35.4486681,-97.6921663,1500m/data=!3m2!1e3!4b1!4m6!3m5!1s0x87b20ed71b291f45:0xf9e19f2ee209f516!8m2!3d35.4486638!4d-97.6895914!16s%2Fg%2F11pvcv3334?entry=ttu&g_ep=EgoyMDI1MDgwNi4wIKXMDSoASAFQAw%3D%3D>`_
 Time: 10:30 AM
 
-Given the early morning testing time I will be driving down on the evening of August 22nd. See :ref:`contact` to get in touch with me directly if anyone wants to carpool. I have room for an additional 3 people.
+Given the early morning testing time I will be driving down on the evening of August 22nd. See the :ref:`contact` page to get in touch with me directly if anyone wants to carpool. I have room for an additional 3 people.
 
 .. note:: For anyone unable to travel to attend in-person we will do a make-up session with either Master Gavilan or Master Vialba.
 
