@@ -18,3 +18,10 @@ help:
 # "make mode" option.  $(O) is meant as a shortcut for $(SPHINXOPTS).
 %: Makefile
 	@uv run $(SPHINXBUILD) -M $@ "$(SOURCEDIR)" "$(BUILDDIR)" $(SPHINXOPTS) $(O)
+	- find build/ -type f -print0 | xargs -0 sed -i 's/Search docs/Search/g'
+	- find build/ -type f -print0 | xargs -0 sed -i 's/border="1"//g'
+	rm -rf docs
+	mkdir docs
+	mv build/html/* docs/
+	touch docs/.nojekyll
+	rm -rf build
