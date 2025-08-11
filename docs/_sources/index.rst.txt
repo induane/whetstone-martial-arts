@@ -1,12 +1,17 @@
 Whetstone Martial Arts
 ======================
 
+.. note:: The next belt test is coming up. For more info see :ref:`august_2025_belt_test`.
 
 .. figure:: images/reina-spin-kick.jpg
 
-We are a small martial arts school located in `Perry Kansas <https://maps.app.goo.gl/6dt6HSvnGH1mSuEe9>`_. We focus
-on training traditional `Taekwondo <https://www.olympics.com/en/sports/taekwondo/>`_ but mix in a few other art forms including
-`Krav Maga <https://en.wikipedia.org/wiki/Krav_Maga>`_, and `Kali <https://survivalarts.org/kali>`_.
+Whetstone Martial Arts is a small martial arts school located deep in rural `Perry Kansas <https://maps.app.goo.gl/6dt6HSvnGH1mSuEe9>`_.
+It focuses on training traditional `Taekwondo <https://www.olympics.com/en/sports/taekwondo/>`_ with additional art forms such as
+`Krav Maga <https://en.wikipedia.org/wiki/Krav_Maga>`_, and `Kali <https://survivalarts.org/kali>`_ sprinkled in for additional spice.
+
+
+
+
 
 
 .. toctree::

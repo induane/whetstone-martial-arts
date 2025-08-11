@@ -3,8 +3,10 @@
 News
 ====
 
-2025-08-11
-----------
+.. _august_2025_belt_test:
+
+August 2025 Belt Test
+---------------------
 
 The next official belt test will be in-person at Dynamic Leaders Martial Arts in Oklomaha city. The school's
 address is `1709 S Morgan Rd , Oklahoma City, OK, United States, Oklahoma <https://www.google.com/maps/place/1709+S+Morgan+Rd,+Yukon,+OK+73099/@35.4486681,-97.6921663,1500m/data=!3m2!1e3!4b1!4m6!3m5!1s0x87b20ed71b291f45:0xf9e19f2ee209f516!8m2!3d35.4486638!4d-97.6895914!16s%2Fg%2F11pvcv3334?entry=ttu&g_ep=EgoyMDI1MDgwNi4wIKXMDSoASAFQAw%3D%3D>`_.
@@ -15,8 +17,8 @@ Time: 10:30 AM
 
 Given the early morning testing time I will be driving down on the evening of August 22nd. See :ref:`contact` to get in touch with me directly if anyone wants to carpool. I have room for an additional 3 people.
 
-2025-08-05
-----------
+A Website (Finally)
+-------------------
 
 The first bit if news is that this website exists, but there will be more news to come
 as we prepare for tournaments, belt tests, and other activities.
