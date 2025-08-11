@@ -22,6 +22,12 @@ Given the early morning testing time I will be driving down on the evening of Au
 
 .. note:: For anyone unable to travel to attend in-person we will do a make-up session with either Master Gavilan or Master Vialba.
 
+
+New Uniforms
+------------
+
+The long awaited new traditional Taekwondo uniforms are finally in the mail. They are expected to arrive on August 15th or August 16th. There is no additional charge for the updated uniforms.
+
 A Website (Finally)
 -------------------
 
