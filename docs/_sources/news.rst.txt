@@ -3,6 +3,26 @@
 News
 ====
 
+.. _oct_2025_belt_test:
+
+October 2025 Belt Test
+----------------------
+
+Our next **local** belt test will be in-person; location TBD depending on space availability.
+
+| Date: October 4th, 2025
+|
+| Location: TBD   (will be local, either in Perry or Lawrence KS)
+|
+| Time 2:00 PM
+|
+| Special Master: Master Rodney Vialba (remote from Paraguay)
+|
+
+- Wear your traditional uniform (all black)
+- Wear your belt
+- Be sure to bring all gear
+
 .. _august_2025_belt_test:
 
 August 2025 Belt Test
