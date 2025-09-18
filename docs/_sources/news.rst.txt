@@ -3,6 +3,15 @@
 News
 ====
 
+.. _bootcamp_1:
+
+Warrior Boot Camp Registration
+------------------------------
+
+Register for the Warrior Martial Arts boot camp here: https://cp.mystudio.io/e/?=9047242100/3207///1726406011
+
+On the website above click "Warrior Certifications". There are options for Warrior Kali, Fight Club, and Krav Core.
+
 .. _oct_2025_belt_test:
 
 October 2025 Belt Test
