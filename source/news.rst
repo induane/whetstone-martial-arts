@@ -3,6 +3,23 @@
 News
 ====
 
+
+.. _seminar_1:
+
+Training Seminar
+----------------
+
+A special training seminar is available with Master Gavilan at his location in Oklahoma City; we will drill
+all of the drills that will be part of the Black-Belt testing, however this seminar is open to all color belts.
+
+| Date: October 18th, 2025 (Saturday)
+|
+| Time: 10:00 AM
+|
+| Location: `Dynamic Leaders Martial Arts <https://www.google.com/maps/place/1709+S+Morgan+Rd,+Yukon,+OK+73099/@35.4486681,-97.6921663,1500m/data=!3m2!1e3!4b1!4m6!3m5!1s0x87b20ed71b291f45:0xf9e19f2ee209f516!8m2!3d35.4486638!4d-97.6895914!16s%2Fg%2F11pvcv3334?entry=ttu&g_ep=EgoyMDI1MDgwNi4wIKXMDSoASAFQAw%3D%3D>`_
+|
+
+
 .. _bootcamp_1:
 
 Warrior Boot Camp Registration

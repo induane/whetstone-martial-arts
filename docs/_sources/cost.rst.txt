@@ -1,7 +1,7 @@
 .. _cost:
 
-Cost
-====
+Cost & Payment
+==============
 
 Trial Period
 ------------
@@ -18,6 +18,13 @@ Montly cost: $100
 
 There is a household discount; additional students from the same household are $50 per month. So two students
 from the same household is $150 per month; and three students is $200 a month.
+
+Payment
+-------
+
+I take Venmo, cash, or even an IOU.
+
+.. figure:: images/venmo.jpg
 
 Equipment Included
 ------------------
