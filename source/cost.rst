@@ -22,7 +22,7 @@ from the same household is $150 per month; and three students is $200 a month.
 Payment
 -------
 
-I take Venmo, cash, or even an IOU.
+I take Venmo, cash, or even an IOU. Payments are due around the end of the month.
 
 .. figure:: images/venmo.
 
