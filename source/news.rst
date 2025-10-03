@@ -45,9 +45,9 @@ Our next **local** belt test will be in-person; location TBD depending on space 
 | Special Master: Master Rodney Vialba (remote from Paraguay)
 |
 
-- Wear your traditional uniform (all black)
+- Wear your traditional uniform (all black) or Warrior Martial Arts uniform
 - Wear your belt
-- Be sure to bring all gear
+- Be sure to bring all gear (Kali Sticks, Nunchaku, Gloves, etc...)
 
 .. _august_2025_belt_test:
 
