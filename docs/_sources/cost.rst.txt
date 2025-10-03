@@ -24,7 +24,7 @@ Payment
 
 I take Venmo, cash, or even an IOU. Payments are due around the end of the month.
 
-.. figure:: images/venmo.
+.. figure:: images/venmo.jpg
 
 Equipment Included
 ------------------

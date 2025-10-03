@@ -38,7 +38,7 @@ Our next **local** belt test will be in-person; location TBD depending on space 
 
 | Date: October 4th, 2025
 |
-| Location: TBD   (will be local, either in Perry or Lawrence KS)
+| Location: `Perry American Legion <https://www.google.com/maps/place/American+Legion/@39.079265,-95.3891549,227m/data=!3m1!1e3!4m6!3m5!1s0x87bf732c4a7e340d:0x20e106afbc8ab92b!8m2!3d39.0793298!4d-95.390099!16s%2Fg%2F1tcxvrwp?entry=ttu&g_ep=EgoyMDI1MDkzMC4wIKXMDSoASAFQAw%3D%3D>`_
 |
 | Time 2:00 PM
 |
