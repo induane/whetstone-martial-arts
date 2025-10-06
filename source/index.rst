@@ -1,7 +1,7 @@
 Whetstone Martial Arts
 ======================
 
-.. note:: The next belt test is coming up. For more info see :ref:`oct_2025_belt_test`.
+.. note:: The belt test has been rescheduled for Saturday, October 11th. For more info see :ref:`oct_2025_belt_test`.
 
 .. figure:: images/reina-spin-kick.jpg
 

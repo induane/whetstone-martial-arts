@@ -3,6 +3,26 @@
 News
 ====
 
+.. _oct_2025_belt_test:
+
+October 2025 Belt Test
+----------------------
+
+Our next **local** belt test will be in-person at the Perry American Legion.
+
+| Date: October 11th, 2025
+|
+| Location: `Perry American Legion <https://www.google.com/maps/place/American+Legion/@39.079265,-95.3891549,227m/data=!3m1!1e3!4m6!3m5!1s0x87bf732c4a7e340d:0x20e106afbc8ab92b!8m2!3d39.0793298!4d-95.390099!16s%2Fg%2F1tcxvrwp?entry=ttu&g_ep=EgoyMDI1MDkzMC4wIKXMDSoASAFQAw%3D%3D>`_
+|
+| Time 2:00 PM
+|
+| Special Master: Master Rodney Vialba (remote from Paraguay)
+|
+
+- Wear your traditional uniform (all black) or Warrior Martial Arts uniform
+- Wear your belt
+- Be sure to bring all gear (Kali Sticks, Nunchaku, Gloves, etc...)
+
 
 .. _seminar_1:
 
@@ -28,26 +48,6 @@ Warrior Boot Camp Registration
 Register for the Warrior Martial Arts boot camp here: https://cp.mystudio.io/e/?=9047242100/3207///1726406011
 
 On the website above click "Warrior Certifications". There are options for Warrior Kali, Fight Club, and Krav Core.
-
-.. _oct_2025_belt_test:
-
-October 2025 Belt Test
-----------------------
-
-Our next **local** belt test will be in-person; location TBD depending on space availability.
-
-| Date: October 4th, 2025
-|
-| Location: `Perry American Legion <https://www.google.com/maps/place/American+Legion/@39.079265,-95.3891549,227m/data=!3m1!1e3!4m6!3m5!1s0x87bf732c4a7e340d:0x20e106afbc8ab92b!8m2!3d39.0793298!4d-95.390099!16s%2Fg%2F1tcxvrwp?entry=ttu&g_ep=EgoyMDI1MDkzMC4wIKXMDSoASAFQAw%3D%3D>`_
-|
-| Time 2:00 PM
-|
-| Special Master: Master Rodney Vialba (remote from Paraguay)
-|
-
-- Wear your traditional uniform (all black) or Warrior Martial Arts uniform
-- Wear your belt
-- Be sure to bring all gear (Kali Sticks, Nunchaku, Gloves, etc...)
 
 .. _august_2025_belt_test:
 
