@@ -8,6 +8,8 @@ unable to acquire a remote mountaintop fortress due to the topography of Kansas.
 
 .. figure:: images/dojo-exterior.jpg
 
+.. figure:: images/reina-spin-kick.jpg
+
 .. figure:: images/class-1.jpg
 
 .. figure:: images/dojo-1.jpg
