@@ -3,6 +3,13 @@
 News
 ====
 
+.. _spring_2026_recruit:
+
+Spring 2026 Recruiting
+----------------------
+
+We are now recruiting for a new class of beginners to start this spring. We will be announcing new class times as that gets rolling so check back soon!
+
 .. _oct_2025_belt_test:
 
 October 2025 Belt Test
