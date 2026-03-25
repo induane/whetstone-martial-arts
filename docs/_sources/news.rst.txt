@@ -3,6 +3,13 @@
 News
 ====
 
+.. _spring_2026_schedule_update:
+
+Spring 2026 Schedule
+--------------------
+
+The class :ref:`schedule` has been updated. Beginner classes will now be from 5:00–6:00 PM with an extra optional class on Fridays.
+
 .. _spring_2026_recruit:
 
 Spring 2026 Recruiting
