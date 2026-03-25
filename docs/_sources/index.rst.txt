@@ -1,7 +1,7 @@
 Whetstone Martial Arts
 ======================
 
-.. note:: The class :ref:`schedule` has been updated. Beginner classes will now be from 5:00–6:00 PM with an extra optional class on Fridays.
+.. note:: The class :ref:`schedule` has been updated. Beginner classes will now be from 5:00–6:00 PM and advanced students from 6:00–7:00 PM; there will be an extra optional class on Fridays.
 
 .. figure:: images/katana-1.jpg
 
