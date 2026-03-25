@@ -1,7 +1,7 @@
 Whetstone Martial Arts
 ======================
 
-.. note:: The belt test has been rescheduled for Saturday, October 11th. For more info see :ref:`oct_2025_belt_test`.
+.. note:: The class :ref:`schedule` has been updated. Beginner classes will now be from 5:00–6:00 PM with an extra optional class on Fridays.
 
 .. figure:: images/katana-1.jpg
 
