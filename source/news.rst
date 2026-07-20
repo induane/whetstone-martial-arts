@@ -5,6 +5,9 @@ News
 
 .. _summer_2026_belt_test:
 
+Summer 2026 Belt Test
+---------------------
+
 Our next **local** belt test will be in-person at the Perry American Legion.
 
 | Date: October 11th, 2025
